@@ -1,5 +1,5 @@
 # 🚘 Deep Learning-Based Automated License Plate Detection and Recognition System
-
+https://colab.research.google.com/drive/1j2j0iZMCsTpdyX1TUZU4xN7w-2zUBNhM?usp=sharing
 An automated License Plate Detection and Recognition system based on Deep Learning, Computer Vision, and Optical Character Recognition (OCR).
 
 The system is designed to automatically detect vehicle license plates from images, extract the plate regions, recognize alphanumeric characters, and display the detected license plate numbers on the original image.
